@@ -1,3 +1,9 @@
+#feel free to modify this code !!!!!!!
+#use it in your own projects
+#no copyright
+
+
+#imports
 import os
 
 
